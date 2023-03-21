@@ -1,0 +1,25 @@
+{
+  "logo": "/images/logo.png",
+  "items": [
+    {
+      "link": "/",
+      "text": "Home"
+    },
+    {
+      "link": "/contato",
+      "text": "Contato"
+    },
+    {
+      "link": "/blog",
+      "text": "Blog"
+    },
+    {
+      "link": "/sobre",
+      "text": "Sobre"
+    }
+  ],
+  "btn": {
+    "link": "https://wa.me/5583982345092?text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20minha%20consulta.",
+    "text": "Contato"
+  }
+}
