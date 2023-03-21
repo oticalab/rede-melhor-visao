@@ -12,10 +12,10 @@ featured_image:
   image: /images/blog/oculos-visao.jpg
   image_alt: Children looking at a laptop
 seo:
-  page_description:
+  page_description: "Como prevenir vista cansada: dicas simples para cuidar dos seus olhos"
   canonical_url:
-  featured_image: /images/blog/oculos-visao.jpg
-  featured_image_alt:
+  featured_image: https://rede-melhor-visao.pages.dev/images/blog/oculos-visao.jpg
+  featured_image_alt: Oculos
   author_twitter_handle:
   open_graph_type: article
   no_index: false
