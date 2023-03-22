@@ -1,6 +1,6 @@
 ---
 date: 2023-03-21T00:00:00Z
-title: 'Como funciona o tratamento da Catarata'
+title: 'Catarata, sintomas e tratamento'
 tags:
   - catarata
   - cirurgia ocular
