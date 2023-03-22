@@ -1,6 +1,6 @@
 # Rede Melhor Visão
 
-Website da Rede [Melhor Visão](https://redemelhorvisao.com.br/).
+Website da Rede [Melhor Visão](https://oftalmologiamelhorvisao.com.br/).
 
 ## Setup
 

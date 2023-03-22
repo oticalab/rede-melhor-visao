@@ -11,13 +11,12 @@ thumb_image:
   image_alt: Informações sobre catarata
 featured_image:
   image: /images/blog/catarata.jpg
-  image_alt: Children looking at a laptop
+  image_alt: Informações sobre Catarata
 seo:
-  page_description:
-    'Como prevenir vista cansada: dicas simples para cuidar dos seus olhos'
+  page_description: 'informações sobre Catarata, tratamentos e prevenção'
   canonical_url:
   featured_image: https://rede-melhor-visao.pages.dev/images/blog/catarata.jpg
-  featured_image_alt: Oculos
+  featured_image_alt: Catarata
   author_twitter_handle:
   open_graph_type: article
   no_index: false
