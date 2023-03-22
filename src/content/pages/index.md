@@ -26,18 +26,18 @@ content_blocks:
       Nosso time é completamente equipado e treinado para te dar o melhor atendimento do mercado.
     alternate_style: false
     numbers:
-      - prefix: ""
-        number: 200
-        suffix: m
+      - prefix: "+"
+        number: 2000
+        suffix: ""
         text: "Pacientes atendidos"
       - prefix:
-        number: 2020
+        number: 2022
         suffix:
         text: desde
       - prefix:
         number: 20
         suffix: +
-        text: Colaboradores
+        text: Exames diferentes
       # - prefix:
       #   number: 4322
       #   suffix: +

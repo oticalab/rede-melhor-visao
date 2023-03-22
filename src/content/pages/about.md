@@ -33,8 +33,8 @@ content_blocks:
     alternate_style: true
     numbers:
       - prefix: ""
-        number: 200
-        suffix: m
+        number: 2000
+        suffix: ""
         text: "Pacientes atendidos"
       - number: 2016
         text: Established in

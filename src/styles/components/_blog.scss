@@ -194,6 +194,18 @@
       article {
          position: relative;
 
+         p {
+            margin-bottom: 5px !important;
+         }
+
+         ul {
+            margin-bottom: 5px !important;
+         }
+
+         ul li {
+            list-style: circle !important;
+         }
+
          .inner-blog-details {
             @include media-breakpoint-down-sm {
                text-align: center;
