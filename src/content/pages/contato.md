@@ -10,24 +10,27 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: contact/hero
-    title: Let's talk.
-    description: Have a question or suggestion? Feel free to drop us a message!
+    title: Entre em cotato
+    description:
+      Tem alguma dúvida ou quer marcar uma consulta? entre em contato com a
+      gente.
   - _bookshop_name: contact/form
     address:
-      heading: Office Address
-      address: 123 Train St, San Francisco, CA 9107
+      heading: Endereço
+      address:
+        Av. João Câncio da Silva, 435 - Manaíra, João Pessoa - PB, 58038-342
     phone:
-      heading: Phone
-      cell: (123) 456 - 7895
+      heading: Telefone
+      cell: (83) 98234-5092
       image: /images/contact/call-add.svg
       image_alt: call-add
     email:
       heading: Email
-      email: info@example.com
+      email: melhorvisaooftalmologia@gmail.com
       image: /images/contact/directbox-send.svg
       image_alt: send-box
     form:
-      heading: Say Hello
+      heading: Estamos no WhatsApp
       fullname:
         heading: Full Name
         placeholder: Enter First Name
