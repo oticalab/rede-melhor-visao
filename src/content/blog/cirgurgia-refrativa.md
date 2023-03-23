@@ -4,7 +4,7 @@ title: 'Cirurgia Refrativa, principais tipos e indicações'
 tags:
   - cirurgia refrativa
 
-author: Jean Paulino
+author: Melhor Visão Oftalmologia
 thumb_image:
   image: /images/blog/cirurgia-refrativa.jpg
   image_alt: Cirurgia Refrativa, principais tipos e indicações

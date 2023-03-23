@@ -5,7 +5,7 @@ tags:
   - catarata
   - cirurgia ocular
 
-author: Jean Paulino
+author: Melhor Visão Oftalmologia
 thumb_image:
   image: /images/blog/catarata.jpg
   image_alt: Informações sobre catarata

@@ -4,7 +4,7 @@ title: 'Olho seco, sintomas e tratamento'
 tags:
   - olho seco
 
-author: Jean Paulino
+author: Melhor Visão Oftalmologia
 thumb_image:
   image: /images/blog/olho_seco.jpg
   image_alt: Olho seco, sintomas e tratamento
