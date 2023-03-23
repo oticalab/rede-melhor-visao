@@ -75,7 +75,7 @@ content_blocks:
         author: Letícia
         designation:
         message: >-
-          Fui atendida rapidamente, sem demora ou burocracia.
+          Fui atendida sem demora ou burocracia. Com certeza voltarei.
       - image: /images/testimonial/logo-4.jpg
         image_alt: Foto da Maria Clara
         author: Maria Clara
