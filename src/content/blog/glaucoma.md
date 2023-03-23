@@ -59,8 +59,12 @@ importante que as pessoas com histórico familiar de glaucoma realizem exames
 oftalmológicos regulares para detectar a doença precocemente. À medida que a
 doença avança, os sintomas podem incluir:
 
--- Perda gradual da visão periférica -- Visão turva -- Dor ocular -- Halos ao
-redor das luzes -- Vermelhidão nos olhos -- Olhos lacrimejantes
+- Perda gradual da visão periférica
+- Visão turva
+- Dor ocular
+- Halos ao redor das luzes
+- Vermelhidão nos olhos
+- Olhos lacrimejantes
 
 Os tratamentos para o glaucoma incluem medicamentos, cirurgia ou ambos. A
 escolha do tratamento dependerá do tipo e gravidade do glaucoma, bem como de
