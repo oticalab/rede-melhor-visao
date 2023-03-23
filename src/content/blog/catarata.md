@@ -100,3 +100,9 @@ Consulte um oftalmologista se você suspeitar que tem catarata ou se tiver
 dúvidas sobre a saúde dos seus olhos. Lembre-se de que a prevenção e o
 tratamento precoces são essenciais para manter uma boa visão e uma vida
 saudável.
+
+Agende uma consulta com um dos nossos especialistas.
+
+**Melhor Visão Oftalmologia** - Endereço: Av. João Câncio da Silva, 435 -
+Manaíra, João Pessoa - PB, 58038-342 Telefone:
+[(83) 98234-5092](https://wa.me/5583982345092?text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20minha%20consulta)

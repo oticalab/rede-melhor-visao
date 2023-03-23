@@ -82,7 +82,7 @@ constatou-se que não existe vantagem em colocar o mesmo epitélio de volta.
 
 Você pensa em aposentar os óculos por meio da Cirurgia Refrativa?
 
-Agende uma consulta uma com um dos nossos especialistas.
+Agende uma consulta com um dos nossos especialistas.
 
 **Melhor Visão Oftalmologia** - Endereço: Av. João Câncio da Silva, 435 -
 Manaíra, João Pessoa - PB, 58038-342 Telefone:

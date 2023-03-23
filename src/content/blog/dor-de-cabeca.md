@@ -73,7 +73,7 @@ trabalhar em ambientes com luz brilhante excessiva. Dessa forma, você pode
 ajudar a prevenir a dor de cabeça relacionada à visão antes que ela se torne um
 problema sério.
 
-Agende uma consulta uma com um dos nossos especialistas.
+Agende uma consulta com um dos nossos especialistas.
 
 **Melhor Visão Oftalmologia** - Endereço: Av. João Câncio da Silva, 435 -
 Manaíra, João Pessoa - PB, 58038-342 Telefone:

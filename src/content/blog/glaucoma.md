@@ -85,7 +85,7 @@ precocemente, especialmente se houver fatores de risco, como histórico familiar
 de glaucoma, idade avançada, diabetes ou pressão intraocular elevada. O
 tratamento precoce pode ajudar a prevenir a perda de visão significativa.
 
-Agende uma consulta uma com um dos nossos especialistas.
+Agende uma consulta com um dos nossos especialistas.
 
 **Melhor Visão Oftalmologia** - Endereço: Av. João Câncio da Silva, 435 -
 Manaíra, João Pessoa - PB, 58038-342 Telefone:

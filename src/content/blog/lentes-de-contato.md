@@ -78,7 +78,7 @@ limpeza e armazenamento, e substitua as lentes conforme indicado pelo
 fabricante. Seguindo essas orientações, você pode usufruir dos benefícios das
 lentes de contato com segurança e conforto.
 
-Agende uma consulta uma com um dos nossos especialistas.
+Agende uma consulta com um dos nossos especialistas.
 
 **Melhor Visão Oftalmologia** - Endereço: Av. João Câncio da Silva, 435 -
 Manaíra, João Pessoa - PB, 58038-342 Telefone:
