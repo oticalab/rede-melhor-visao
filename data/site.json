@@ -1,9 +1,9 @@
 {
-  "site_title": "Sendit",
-  "description": "A polished, marketing website template built with Astro",
+  "site_title": "Melhor Visão Oftalmologia",
+  "description": "Melhor Visão Oftalmologia",
   "favicon_icon": "/images/favicon.ico",
   "favicon_image": "/images/favicon.png",
   "twitter_site": "@twitter_site",
-  "image": "/images/feature/feature-hero.png",
-  "image_alt": "/images/feature/feature-hero.png"
+  "image": "/images/open-graph-img.jpg",
+  "image_alt": "Pessoa fazendo exame de vista"
 }

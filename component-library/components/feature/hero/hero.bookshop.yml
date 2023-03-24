@@ -14,7 +14,7 @@ blueprint:
   button:
     link: /sign-up
     text: Try This Free
-  image: /images/feature/feature-hero.png
+  image: /images/open-graph-img.jpg
   image_alt: Graphs
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
