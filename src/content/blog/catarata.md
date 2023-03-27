@@ -55,6 +55,11 @@ gravidade da doença. Alguns dos sintomas mais comuns incluem:
 - Perda de visão noturna;
 - Mudanças frequentes na prescrição de óculos.
 
+<div class="call-to-action">
+  Agende sua consulta conosco via WhatsApp.
+  <a href="https://wa.me/5583982345092?text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20minha%20consulta.">Agendar Consulta</a>
+</div>
+
 ### Tratamento da catarata
 
 O tratamento para a catarata envolve a remoção da lente afetada e sua
