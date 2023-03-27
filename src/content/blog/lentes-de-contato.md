@@ -35,6 +35,11 @@ como por exemplo, olho seco, alergias, entre outras. Além disso, o
 oftalmologista irá orientar sobre as lentes mais indicadas para o seu caso e
 ensinar como colocá-las e retirá-las corretamente.
 
+<div class="call-to-action">
+  Agende uma consulta com um dos nossos especialistas.
+  <a href="https://wa.me/5583982345092?text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20minha%20consulta.">Agendar Consulta</a>
+</div>
+
 ### Lave as mãos
 
 Antes de manusear as lentes de contato, lave bem as mãos com água e sabão
@@ -78,7 +83,10 @@ limpeza e armazenamento, e substitua as lentes conforme indicado pelo
 fabricante. Seguindo essas orientações, você pode usufruir dos benefícios das
 lentes de contato com segurança e conforto.
 
-Agende uma consulta com um dos nossos especialistas.
+<div class="call-to-action">
+  Agende uma consulta com um dos nossos especialistas.
+  <a href="https://wa.me/5583982345092?text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20minha%20consulta.">Agendar Consulta</a>
+</div>
 
 **Melhor Visão Oftalmologia** - Endereço: Av. João Câncio da Silva, 435 -
 Manaíra, João Pessoa - PB, 58038-342 Telefone:

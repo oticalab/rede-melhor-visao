@@ -44,6 +44,11 @@ eletrônicos, é importante fazer pausas regulares para descansar os olhos. A ca
 20 minutos, olhe para um ponto distante por pelo menos 20 segundos para relaxar
 os músculos oculares.
 
+<div class="call-to-action">
+  Agende uma consulta com um dos nossos especialistas.
+  <a href="https://wa.me/5583982345092?text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20minha%20consulta.">Agendar Consulta</a>
+</div>
+
 ### Use iluminação adequada
 
 Certifique-se de que o ambiente onde você trabalha ou estuda esteja bem
@@ -79,7 +84,10 @@ contato e manter uma boa alimentação, você pode cuidar da saúde dos seus olh
 prevenir a vista cansada. Lembre-se de que a prevenção é sempre melhor do que o
 tratamento, por isso, comece a cuidar dos seus olhos hoje mesmo!
 
-Agende uma consulta com um dos nossos especialistas.
+<div class="call-to-action">
+  Agende uma consulta com um dos nossos especialistas.
+  <a href="https://wa.me/5583982345092?text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20minha%20consulta.">Agendar Consulta</a>
+</div>
 
 **Melhor Visão Oftalmologia** - Endereço: Av. João Câncio da Silva, 435 -
 Manaíra, João Pessoa - PB, 58038-342 Telefone:

@@ -60,6 +60,11 @@ problemas de visão estabilizados há pelo menos um ano e que estão com boa sa�
 geral. O oftalmologista irá avaliar cuidadosamente cada caso individualmente
 antes de recomendar o procedimento.
 
+<div class="call-to-action">
+  Agende uma consulta com um dos nossos especialistas.
+  <a href="https://wa.me/5583982345092?text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20minha%20consulta.">Agendar Consulta</a>
+</div>
+
 ### Tipos de cirurgia refrativa
 
 Existem diferentes tipos de cirurgia refrativa disponíveis, sendo as mais comuns
@@ -81,8 +86,6 @@ camada é recolocada no lugar. A cirurgia LASEK é pouco usada atualmente, pois
 constatou-se que não existe vantagem em colocar o mesmo epitélio de volta.
 
 Você pensa em aposentar os óculos por meio da Cirurgia Refrativa?
-
-Agende uma consulta com um dos nossos especialistas.
 
 **Melhor Visão Oftalmologia** - Endereço: Av. João Câncio da Silva, 435 -
 Manaíra, João Pessoa - PB, 58038-342 Telefone:

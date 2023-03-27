@@ -35,6 +35,11 @@ olho para o cérebro, e danos a ele podem levar a perda de visão permanente. O
 glaucoma pode ser hereditário e ocorre com mais frequência em pessoas com mais
 de 60 anos de idade. No entanto, ele pode ocorrer em qualquer idade.
 
+<div class="call-to-action">
+  Agende uma consulta com um dos nossos especialistas.
+  <a href="https://wa.me/5583982345092?text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20minha%20consulta.">Agendar Consulta</a>
+</div>
+
 ### Quais são os tipos de glaucoma?
 
 Existem vários tipos de glaucoma, mas os dois principais são o glaucoma de
@@ -85,7 +90,10 @@ precocemente, especialmente se houver fatores de risco, como histórico familiar
 de glaucoma, idade avançada, diabetes ou pressão intraocular elevada. O
 tratamento precoce pode ajudar a prevenir a perda de visão significativa.
 
-Agende uma consulta com um dos nossos especialistas.
+<div class="call-to-action">
+  Agende uma consulta com um dos nossos especialistas.
+  <a href="https://wa.me/5583982345092?text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20minha%20consulta.">Agendar Consulta</a>
+</div>
 
 **Melhor Visão Oftalmologia** - Endereço: Av. João Câncio da Silva, 435 -
 Manaíra, João Pessoa - PB, 58038-342 Telefone:

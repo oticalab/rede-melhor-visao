@@ -35,6 +35,11 @@ O olho seco pode causar uma variedade de sintomas, que podem incluir:
 - Visão turva ou embaçada. Sensibilidade à luz. Olhos cansados ou com sensação
 - de peso. Lacrimejamento excessivo.
 
+<div class="call-to-action">
+  Agende uma consulta com um dos nossos especialistas.
+  <a href="https://wa.me/5583982345092?text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20minha%20consulta.">Agendar Consulta</a>
+</div>
+
 ### Tratamento do Olho Seco
 
 Existem muitos tratamentos para o olho seco, que variam de acordo com a causa da
@@ -72,5 +77,9 @@ tratamento é melhor para você.
 
 Você tem olho seco?
 
-Marque uma consulta conosco para nossos especialistas cuidarem de você. Clínica
-Melhor Visão Oftalmologia - Contato: 83 98234-5092
+<div class="call-to-action">
+  Agende uma consulta com um dos nossos especialistas.
+  <a href="https://wa.me/5583982345092?text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20minha%20consulta.">Agendar Consulta</a>
+</div>
+
+Clínica Melhor Visão Oftalmologia - Contato: 83 98234-5092
