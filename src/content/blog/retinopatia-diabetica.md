@@ -1,6 +1,6 @@
 ---
 date: 2023-03-21T00:00:00Z
-title: 'Retinopatia Diabética - Sitomas e tratamento'
+title: 'Retinopatia Diabética - Prevenção à cegueira'
 tags:
   - Retinopatia Diabética
 
