@@ -20,6 +20,7 @@ content_blocks:
     button:
       text: Agende sua consulta
       link: 'https://wa.me/5583982345092?text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20minha%20consulta.'
+
   - _bookshop_name: global/counter
     title: O melhor para sua
     title_suffix: visão
@@ -44,10 +45,12 @@ content_blocks:
       #   number: 4322
       #   suffix: +
       #   text: Active users and growing
+
   - _bookshop_name: home/video
     image: /images/video/video-banner.jpg
     image_alt: Pessoa fazendo exame de vista
     video_url: https://vimeo.com/809945514
+
   - _bookshop_name: global/header
     title: 'melhor '
     title_suffix: visão
@@ -55,6 +58,14 @@ content_blocks:
     description: >-
       Nossa clinica é completamente equipada para te atender da melhor forma
       possível.
+
+  - _bookshop_name: global/header
+    remove_top_padding: true
+    image: /images/video/video-banner.jpg
+    title: 'Convênio com '
+    title_suffix: Unimed
+    description: >-
+      Nossa clinica é também aceita o seu plano de saúdo Unimed
 
   - _bookshop_name: global/testimonial
     title: Veja o que nossos clientes estão
