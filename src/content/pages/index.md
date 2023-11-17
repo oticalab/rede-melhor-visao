@@ -65,7 +65,7 @@ content_blocks:
     title: 'Convênio com '
     title_suffix: Unimed
     description: >-
-      Nossa clinica é também aceita o seu plano de saúdo Unimed
+      Nossa clinica também aceita o seu plano de saúde Unimed
 
   - _bookshop_name: global/testimonial
     title: Veja o que nossos clientes estão
